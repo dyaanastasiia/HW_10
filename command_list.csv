@@ -1,0 +1,16 @@
+  317  git add .
+  318  git status
+  319  git commit
+  320  git commit -m "develop_test.txt
+  321  git status
+  322  git commit -m "develop_test.txt"
+  323  nano develop_test.txt
+  324  git status
+  325  git diff
+  326  git add .
+  327  git status
+  328  git commit -m "update develop_test.txt"
+  329  git checkout main
+  330  git merge develop
+  331  git log
+  332  git log
